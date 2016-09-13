@@ -4,7 +4,6 @@ var app = (function() {
 	    appState: "CLOSED",
 	    lastUpdated: "--",
 	    lastVal: "--",
-	    // comed5MinsURL: "http://comed.theagarwals.com",
 	    comed5MinsURL: "http://cors.io/?https://rrtp.comed.com/api?type=5minutefeed",
 	    iconCode: false,
 	    refreshTimer: false,
@@ -75,7 +74,7 @@ var app = (function() {
 	    		var seconds = "0" + date.getSeconds();
 
 	    		// Will display time in 10:30:23 format
-	    		var formattedTime = hours + ':' + minutes.substr(-2) + ':' + seconds.substr(-2) + " " + ampm;
+	    		var formattedTime = hours + ':' + minutes.substr(-2) + ':' + " " + ampm;
 	    		
 	    		var storage = window.localStorage;
 	    		storage.setItem("LastVal", self.lastVal);
