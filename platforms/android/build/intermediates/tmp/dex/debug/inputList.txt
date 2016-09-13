@@ -1,0 +1,2 @@
+C:\Users\bvx846\Desktop\ADK\Workspace\comed\platforms\android\build\intermediates\classes\debug
+C:\Users\bvx846\Desktop\ADK\Workspace\comed\platforms\android\build\intermediates\pre-dexed\debug\classes-2741d705753c3132fa0aa10e91a9767350344532.jar
