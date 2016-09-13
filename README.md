@@ -1,5 +1,5 @@
 # ComEd 5 Minute Pricing
-This is a simple Cordova based app that pulls 5 minute prices from ComEd (Electricity provider in Illinois/Chicago Area) and shows it to the user. Related links and references:
+This is a simple Cordova based app that displays 5 minute prices from ComEd (Electricity provider in Illinois/Chicago Area). Related links and references:
 
   - [ComEd's Hourly Pricing Web Site][ComEdHourly]
   - [ComEd's Hourly Pricing Graph][ComEdHourlyGraph]
